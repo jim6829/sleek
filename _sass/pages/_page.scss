@@ -101,3 +101,14 @@
     padding-top: 5em;
   }
 }
+
+.post-list-categories {
+  padding-top: 2.5em;
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1 0 auto;
+
+  @include breakpoint($md) {
+    padding-top: 2em;
+  }
+}
