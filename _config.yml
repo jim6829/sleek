@@ -29,7 +29,7 @@ tagline: >
   Coder who can design, designer who can code.
   Interested in HCI.
 
-hero_img: posts/sleek.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: hero.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: ypark6829@gmail.com # email for form submission
 
