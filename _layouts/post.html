@@ -39,18 +39,31 @@ layout: compress
         </div>
       {% endif %}
       <h1 class="hero__title">{{ page.title }}</h1>
-      <p class="hero__meta">
+      <!--p class="hero__meta">
         <span>
-          <time>{{ page.date | date_to_string }}</time>&nbsp;&middot;
+          {{ page.unit | capitalize }} Project&nbsp;&middot;
         </span>
         <span>
+            {% for position in page.positions %}
+              {{ position | capitalize }}{% unless forloop.last %}, {% endunless %}
+            {% endfor %}
+        </span>
+      </p-->
+      <p class="hero__meta">
+        <span>
+          {{ page.unit | capitalize }} Project&nbsp;&middot;
+        </span>
+        <span>
+          <time>{{ page.date | date_to_string }}</time>
+        </span>
+        <!--span>
             {% assign words = content | number_of_words %}
               {% if words < 360 %}
                 1 min
               {% else %}
                 {{ words | divided_by:180 }} mins
             {% endif %} read
-        </span>
+        </span-->
       </p>
     </div>
   </div>
