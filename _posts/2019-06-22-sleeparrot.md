@@ -126,7 +126,7 @@ VUI(AI 스피커) 프로토타이핑에는 Chatfuel(챗봇 빌더)과 파파고 
 *	대화를 통해 수행할 수 있는 기능 파악: VUI가 제공하는 기능의 범위를 설명한다.
 *	Multi-step 프로세스 유지: 사용자가 여러 단계를 거쳐야 하는 대화 프로세스를 유지할 수 있도록 돕는다.
 
-![Evaluation](/assets/img/posts/sleeparrot/evaluation.jpg#center)
+![Evaluation](/assets/img/posts/sleeparrot/evaluation.png#center)
 총 3명의 평가자가 VUI에 맞게 조정된 heuristic을 기반으로 잠무샠에 대한 evaluation을 진행했다. 프로토타입은 Wizard of OZ 형태로 제작되었으며 평가자가 잠무샠 인형과 대화하면 사전에 준비된 TTS 음성을 실험자가 뒤에서 재생하는 방식으로 진행되었다. 평가자에게는 잠무샠 VUI가 3가지 핵심 task를 만족하는지 판단하기 위한 4가지 시나리오가 제시되었다.
 1. 잠무샠 초기 설정하기
 2. 자기 전 할 일 목록 작성하기

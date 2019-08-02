@@ -19,3 +19,38 @@ categories-card: [Interactive Media]
 <div class="video-container">
 	<iframe class="video-frame" src="https://www.youtube.com/embed/a24myr6ZH2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+***
+
+## Story
+```
+‘반짝’
+
+커다랗고 머나먼 우주,
+한 소행성에서 떨어져 나온 작은 먼지가 있었다.
+작은 먼지는 우주를 여행하고 있다.
+
+사실, 작은 먼지는	
+오랫동안 홀로 여행하느라
+조금 지치고 외로웠다.
+
+어디선가 작은 먼지를 잡아당겼다.
+여행의 마지막은 푸른 빛이 감도는 행성이었다.
+밤 공기가 차가워질 때
+작은 먼지는 뜨겁게 빛이 나기 시작했다.
+
+속삭임이 들렸다.
+작은 먼지는 귀를 귀울였다.
+“별똥별아, 나의 소원을 들어줘.”
+
+누군가 작은 먼지에게 소원을 빌었다.
+그 사람은 작은 먼지에게
+‘별똥별’이라는 이름을 붙여주었다.
+
+별똥별은
+아름다운 이름과
+누군가의 소중한 소원을 안고
+여행을 마무리한다.
+
+‘반짝’
+```
