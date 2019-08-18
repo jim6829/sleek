@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "MakeyStickey"
-summary: 모션 기반 게임 플레이
+summary: 모션 인식 게임 컨트롤러
 featured-img: makeystickey/hero
 unit: team
 positions: [Developer]
-categories: [Game Controller, Tangible Interface, Arduino]
+categories: [Game Controller, Tangible Interface, Prototype, Arduino]
 categories-card: [Game Controller]
 ---
 
-# "모션 기반 게임 플레이"
+# "모션 인식 게임 컨트롤러"
 
 
 ![MakeyStickey](/assets/img/posts/makeystickey/controller.jpg#center)
