@@ -12,7 +12,7 @@ categories-card: [Postcard]
 # "모더니즘과 포스트포더니즘을 주제로 한 엽서"
 
 ![Overview](/assets/img/posts/modernism-and-postmodernism/overview.png#center)
-이성과 원초 사이에서 인간의 본질을 탐구하던 그들의 사유를 엽서에 담고자 했다.
+이성과 원초 사이에서 인간의 본질을 탐구하던 두 사조의 사유를 엽서에 담고자 했다.
 
 ***
 ## Postcards
