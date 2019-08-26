@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Sleeparrot (잠무샠)"
-summary: 건강한 수면 습관을 형성하는 감독형 AI 스피커
+summary: 건강한 수면 습관을 형성하는 AI 스피커
 featured-img: sleeparrot/hero
 unit: team
 positions: [Researcher, Evaluator]
 categories: [AI Speaker, VUI, Prototype, User Centered Design, Concept Design]
 categories-card: [AI Speaker, VUI]
+publish: y
 ---
 
 # "잠무샠: 건강한 수면 습관을 형성하는 감독형 AI 스피커"

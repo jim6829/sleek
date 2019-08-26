@@ -7,6 +7,7 @@ unit: personal
 positions: [Designer]
 categories: [Infographic, Data Visualization, Visual Design]
 categories-card: [Infographic]
+publish: y
 ---
 
 # "알고 마시면 더 맛있는 원두의 세계"

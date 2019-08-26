@@ -7,6 +7,7 @@ unit: personal
 positions: [Designer]
 categories: [Infographic, Data Visualization, Visual Design]
 categories-card: [Infographic]
+publish: y
 ---
 
 # "첫 차를 사기 전 당신이 알아야 할 것들"

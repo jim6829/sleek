@@ -6,6 +6,7 @@ unit: personal
 positions: [Designer, Researcher]
 categories: [User Centered Design, Concept Design]
 categories-card: [User Centered Design, Concept Design]
+publish: n
 ---
 
 Ambient Media Objet Project

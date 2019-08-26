@@ -7,6 +7,7 @@ unit: team
 positions: [Designer, Editor, Writer]
 categories: [Book, Publication, Visual Design]
 categories-card: [Book]
+publish: y
 ---
 
 # "자유전공학부 학생들의 전공 분투기"

@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Global Experience Program (자유전공학부 세계체험프로그램)"
-summary: 자유전공학부 세계체험프로그램 보고서 책
+title: "Global Experience Program - Bookcover"
+summary: 자유전공학부 세계체험프로그램
 featured-img: global-experience-program/hero
 unit: personal
 positions: [Designer]
 categories: [Book, Publication, Visual Design]
 categories-card: [Book]
+publish: y
 ---
 
-# "자유전공학부 세계체험프로그램 보고서 책"
-자유전공학부의 해외현장학습 프로그램 보고서 책을 디자인했다.
+# "자유전공학부 세계체험프로그램"
+자유전공학부 해외현장학습 프로그램 보고서 책 디자인
 
 ***
 

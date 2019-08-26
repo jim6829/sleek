@@ -3,7 +3,7 @@ layout: post
 title: Getting Started with Sleek
 featured-img: sleek
 mathjax: true
-categories: Guides
+publish: n
 ---
 
 # Getting started 시작해볼까요?

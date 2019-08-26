@@ -5,8 +5,9 @@ summary: 모션 인식 게임 컨트롤러
 featured-img: makeystickey/hero
 unit: team
 positions: [Developer]
-categories: [Game Controller, Tangible Interface, Prototype, Arduino]
+categories: [Game Controller, Tangible Interface, Prototype, Software Engineering, Arduino]
 categories-card: [Game Controller]
+publish: y
 ---
 
 # "모션 인식 게임 컨트롤러"

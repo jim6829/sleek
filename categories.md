@@ -16,7 +16,9 @@ permalink: /categories/
         <h1 class="category-head">{{ category_name }}</h1>
         <div class="post-list-categories" itemscope="" itemtype="http://schema.org/Blog">
           {% for post in site.categories[category_name] %}
-            {% include card-categories.html %}
+            {% if post.publish == 'y' %}
+              {% include card-categories.html %}
+            {% endif %}
           {% endfor %}
           <!-- {% include pagination.html %} -->
         </div>
