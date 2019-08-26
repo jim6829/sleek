@@ -12,7 +12,7 @@ publish: y
 
 # "자화상 - 다채로운 눈(目) 속에서"
 
-![Self-portrait](/assets/img/posts/self-portrait/2.jpg#center)
+![Self-portrait](/assets/img/posts/self-portrait/3.jpg#center)
 
 ![Self-portrait](/assets/img/posts/self-portrait/1.jpg#center)
 
